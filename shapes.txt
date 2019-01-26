@@ -4,3 +4,4 @@ rectangle
 square
 Triange
 Pentagon
+Hexagon
